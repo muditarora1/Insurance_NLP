@@ -18,3 +18,9 @@ target columns are Coverage Code and Accident Source.
 ## Evaluation
 Evaluation will be done on your model’s precision and recall score. Along with the GUI features.
 
+## To Run this code, Follow:
+- git clone or open this folder in vs code by manual download
+- write 'pip install -r requirements.txt' in terminal
+- write 'streamlit run app2.py' in terminal and browser will open
+- upload the prediction file 'to_predict_sample.xlsx' 
+- you can see output on screen and click download processed data report if needed
