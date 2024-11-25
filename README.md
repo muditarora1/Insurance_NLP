@@ -1,5 +1,5 @@
 # Claim-Description-Classification
-This problem is NLP problem of classification type. Where we have to predict certain class using claim description given. There are two class label which are highly imbalanced and need to be handled.
+This is a NLP use case of classification type. Objectice is to predict claim type using user claim descriptions. There are two Target predictions and Classes are highly imbalanced and which needs to be handled.
 
 ## Problem statement
 In this classification problem, you need address the following using data science techniques:
@@ -17,6 +17,4 @@ target columns are Coverage Code and Accident Source.
 
 ## Evaluation
 Evaluation will be done on your model’s precision and recall score. Along with the GUI features.
-
-## UI Link : https://huggingface.co/spaces/mahesh3394/gallegher_insurance_app
 
